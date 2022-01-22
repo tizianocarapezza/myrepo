@@ -1,0 +1,84 @@
+PKB Studie Checkliste + Ergebnisübersicht	
+Pseudonymisierungscode: ____
+Zeitraum PKB:  ______________________
+Formal Pre
+Dokument/Daten
+Check
+Ergebnis
+Einverständniserklärung
+?
+
+Baseline Daten
+-->Alter 
+-->Geschlecht 
+-->Erstdiagnose (Jahr) 
+-->Hoehn&Yahr 
+-->Größe 
+-->Schuhgröße 
+-->Gewicht 
+? 
+? 
+? 
+? 
+? 
+? 
+? 
+?
+ 
+_______ 
+_______ 
+_______ 
+_______ 
+_______ 
+_______ 
+_______
+
+Tests pre im ON 
+Wichtig: Tests mit Gangsensoren durchführen!
+Test
+Check
+Ergebnis
+TUG
+?
+
+UPDRS
+?
+
+PDQ-39
+?
+
+Ausstattung mit Sensoren
+?
+
+
+Tests post im ON 	 
+Wichtig: Tests mit Gangsensoren durchführen!
+Test
+Check
+Ergebnis
+TUG
+?
+
+UPDRS
+?
+
+PDQ-39
+?
+
+Questionnaire
+?
+
+Zurücknahme der Sensoren
+?
+
+
+Sonstiges
+Medikamentenliste
+?
+Testunterlagen kopieren für Akte und Ordner
+?
+Daten digitalisieren und ins NAS hochladen
+?
+Gangdaten von Portabiles erhalten
+?
+
